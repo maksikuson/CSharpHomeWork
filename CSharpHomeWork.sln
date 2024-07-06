@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06_Exceptions", "06_Excepti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_OverloadingOperators", "07_OverloadingOperators\07_OverloadingOperators.csproj", "{51A2FDDE-6083-473F-B725-18419FC89DCE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_Inheritance", "08_Inheritance\08_Inheritance.csproj", "{F2999A7E-3003-422F-90DD-791E8193C5BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{51A2FDDE-6083-473F-B725-18419FC89DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51A2FDDE-6083-473F-B725-18419FC89DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51A2FDDE-6083-473F-B725-18419FC89DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2999A7E-3003-422F-90DD-791E8193C5BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2999A7E-3003-422F-90DD-791E8193C5BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2999A7E-3003-422F-90DD-791E8193C5BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2999A7E-3003-422F-90DD-791E8193C5BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
