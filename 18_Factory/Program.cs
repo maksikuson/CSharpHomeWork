@@ -7,19 +7,16 @@
 
     public abstract class Processor
     {
-
         public abstract string Name { get; }
     }
 
     public abstract class MainBoard
     {
-
         public abstract string Name { get; }
     }
 
     public abstract class Hdd
     {
-
         public abstract string Name { get; }
 
     }
@@ -72,32 +69,26 @@
 
     public class BlackBox : Box
     {
-
         public override string Name => "Black Box";
     }
 
-
     public class SilverBox : Box
     {
-
         public override string Name => "Silver Box";
     }
 
     public class AmdProcessor : Processor
     {
-
         public override string Name => "AMD Processor";
     }
 
     public class IntelProcessor : Processor
     {
-
         public override string Name => "Intel Processor";
     }
 
     public class AsusMainBoard : MainBoard
     {
-
         public override string Name => "Asus MainBoard";
 
     }
