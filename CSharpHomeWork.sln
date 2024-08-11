@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_AtributesSerialization",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_File", "15_File\15_File.csproj", "{0169C789-C009-4EF3-8D49-F5C5F9621498}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17_Regex", "17_Regex\17_Regex.csproj", "{467BD0B2-CF51-41C1-9D0C-A20DD3B82ED9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{0169C789-C009-4EF3-8D49-F5C5F9621498}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0169C789-C009-4EF3-8D49-F5C5F9621498}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0169C789-C009-4EF3-8D49-F5C5F9621498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{467BD0B2-CF51-41C1-9D0C-A20DD3B82ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{467BD0B2-CF51-41C1-9D0C-A20DD3B82ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{467BD0B2-CF51-41C1-9D0C-A20DD3B82ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{467BD0B2-CF51-41C1-9D0C-A20DD3B82ED9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
