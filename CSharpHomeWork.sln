@@ -33,6 +33,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14_Generics", "14_Generics\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_AtributesSerialization", "16_AtributesSerialization\16_AtributesSerialization.csproj", "{12CAE65B-B4FF-4EA3-AD61-F4BADBEE62CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_File", "15_File\15_File.csproj", "{0169C789-C009-4EF3-8D49-F5C5F9621498}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{12CAE65B-B4FF-4EA3-AD61-F4BADBEE62CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12CAE65B-B4FF-4EA3-AD61-F4BADBEE62CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12CAE65B-B4FF-4EA3-AD61-F4BADBEE62CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0169C789-C009-4EF3-8D49-F5C5F9621498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0169C789-C009-4EF3-8D49-F5C5F9621498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0169C789-C009-4EF3-8D49-F5C5F9621498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0169C789-C009-4EF3-8D49-F5C5F9621498}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
